@@ -1,3 +1,2 @@
-# Deep Learning Lab - Exercise 2 - Computer Vision
-
-Download the exercise PDF on ILIAS and follow the instructions.
+# Computer Vision exercise for Deep Learning Lab 2023 at University of Freiburg. 
+Check [Deep Learning Lab 24 - Exercise 3.pdf](https://github.com/ErlisLushtaku/DeepLearningLab-ComputerVision/blob/main/Deep%20Learning%20Lab%2024%20-%20Exercise%203.pdf) for the description of the task. Check [Report.pdf](https://github.com/ErlisLushtaku/DeepLearningLab-ComputerVision/blob/main/Report.pdf) to see the plots, visualizations, answers to the exercise questions and the results.
